@@ -59,10 +59,10 @@
             قسمة
             نستخدم delegate لاختيار العملية المناسبة حسب إدخال المستخدم. */
 
-            Console.WriteLine("Enter first number:");
-            int firstNumber = int.Parse(Console.ReadLine());
-            Console.WriteLine("Enter second number:");
-            int secondNumber = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter first number:");
+            //int firstNumber = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter second number:");
+            //int secondNumber = int.Parse(Console.ReadLine());
 
             //Console.WriteLine("Choose an operation: Add, Subtract, Multiply, Divide");
             //string operation = Console.ReadLine().ToLower();
